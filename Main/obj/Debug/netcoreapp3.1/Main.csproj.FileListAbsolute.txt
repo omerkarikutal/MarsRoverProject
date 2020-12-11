@@ -1,0 +1,11 @@
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Users\omerk\source\repos\HepsiBuradaMarsRover\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
